@@ -1,0 +1,9 @@
+node_modules/
+build/
+.idea/
+package-lock.json
+pem/
+logs/
+assets/
+.bash_profile
+.DS_Store

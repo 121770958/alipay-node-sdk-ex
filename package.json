@@ -1,0 +1,48 @@
+{
+  "_from": "alipay-node-sdk-ex",
+  "_id": "alipay-node-sdk-ex@2.1.7",
+  "_inBundle": false,
+  "_integrity": "sha512-OBWB9JnSJC9FvpKZsnTFtUxe/CTgQKnBRC0s2/Zd1jmjnYV912/QOpS3kL61ZZZgAgHsfjNA1UuxsBkxKWXuCQ==",
+  "_location": "/alipay-node-sdk-ex",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "alipay-node-sdk-ex",
+    "name": "alipay-node-sdk-ex",
+    "escapedName": "alipay-node-sdk-ex",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/alipay-node-sdk-ex/-/alipay-node-sdk-ex-2.1.7.tgz",
+  "_shasum": "06c41fd292d8854feda6258a8b7bdfd4ded49aac",
+  "_spec": "alipay-node-sdk-ex",
+  "_where": "/Users/liusai/workspace/alipay-node-sdk-ex",
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "deprecated": false,
+  "description": "支付宝App支付nodejs SDK",
+  "keywords": [
+    "alipay",
+    "sdk",
+    "server"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "name": "alipay-node-sdk-ex",
+  "private": false,
+  "scripts": {
+    "test": "grunt"
+  },
+  "version": "2.1.7"
+}
